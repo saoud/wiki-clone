@@ -1,0 +1,51 @@
+
+
+.righttabs {
+  float: right;
+}
+
+.lefttabs {
+  float:left;
+}
+.topline {
+  float: right;
+}
+#navBarSearchForm input[type=text]{
+  width:120px !important;
+margin-right: 30px;
+}
+.welcomecenter {
+  width: 50%;
+  text-align: center;
+  float: left;
+}
+.topiclist-right {
+  float: right;
+  padding-top: 20px;
+}
+
+.imgleftfloat {
+  float: left;
+  width: 150px;
+  margin-right: 10px;
+}
+
+.imgrightfloat {
+  float: right;
+  width: 150px;
+  margin-left: 10px;
+}
+
+.leftmeatcol {
+  background-color: ##cef2e0;
+
+}
+
+.meat {
+  float: left;
+  /*margin-left: -190px;*/
+}
+
+
+.purp {
+ background-color: #d9bdef;
